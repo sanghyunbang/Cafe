@@ -6,7 +6,7 @@ public class cafe {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub;;
 		ArrayList<String> alName = new ArrayList<String>();				
 		ArrayList<Integer> alPrice = new ArrayList<Integer>();	
 		
